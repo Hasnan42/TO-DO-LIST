@@ -65,4 +65,4 @@ It helps users manage their daily tasks with ease.
 
 ## 🔗 Live Demo
 
-🚀 [Click here to view the live app](https://hasnan42.github.io/todo-list/)
+🚀 [Click here to view the live app](https://hasnan42.github.io/TO-DO-LIST/)
