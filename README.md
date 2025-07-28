@@ -43,17 +43,9 @@ It helps users manage their daily tasks with ease.
    git clone https://github.com/Hasnan42/todo-list.git
    ```
 
-## 📁 Project Structure
 
-TO-DO-LIST/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ ├── screenshot.png
-│ ├── Task-ss.png
-│ └── animation.png
-└── README.md
+<pre><code>## 📁 Project Structure <pre> 📂 TO-DO-LIST/ ├── index.html ├── style.css ├── script.js ├── assets/ │ ├── screenshot.png │ ├── Task-ss.png │ └── animation.png └── README.md </pre>
+</code></pre>
 
 ## 🔧 Tech Stack
 
